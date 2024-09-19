@@ -1,6 +1,10 @@
 {
-	"author": "Neal Homan",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Neal Homan",
+	"description": "Learning package.json files",
+	"keywords": ["descriptive", "related", "words", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,6 +15,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	
+	}
 }
